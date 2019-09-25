@@ -1,0 +1,133 @@
+en:
+  shared:
+    error_messages:
+      contain: The form contains
+      error: error
+  layouts:
+    application:
+      subtitle: Ruby on Rails Tutorial Sample App
+    footer:
+      the: The
+      rails_tut: Ruby on Rails Tutorial
+      by: by
+      micheal: Michael Hartl
+      about: About
+      contact: Contact
+      news: News
+    header:
+      sample: Sample app
+      home: Home
+      help: Help
+      login: Login
+      users: Users
+      account: Account
+      profile: Profile
+      settings: Settings
+      logout: Log out
+  static_pages:
+    home:
+      home_page: This is the home page for the
+      sample_application: sample application
+      title: Home
+      rails_tut: Ruby on Rails Tutorial
+      signup: Signup now!
+      welcome: Welcome to the Sample App
+    contact:
+      title: Contact
+      contact: Contact at the
+      contact_page: contact page
+    help:
+      title: Help
+      get_help: Get help at the
+      to_get_help: To get help on this sample app, see the
+      book: book
+      help_page: Rails Tutorial help page
+      rails_tut: Ruby on Rails Tutorial
+    about:
+      title: About
+      to_teach: to teach web development with
+      is_a: is a
+      book: book
+      ruby: Ruby on Rails
+      and: and
+  users:
+    login: Please log in
+    new:
+      signup: Signup
+      button: Create my account!
+      name: Name
+      email: Email
+      password: Password
+      confirmation: Confirmation
+    create:
+      welcome: Welcome to the Sample App!
+      plscheck: Please check your email to activate your account.
+    user_not_found: User not found
+    edit:
+      title: Edit user
+      update: Update your profile
+      name: Name
+      email: Email
+      password: Password
+      confirmation: Password Confirmation
+      save: Save changes
+      change: change
+    update:
+      update_success: Profile updated
+    index:
+      all: All users
+    user:
+      delete: delete
+      confirm: You sure?
+    destroy:
+      deleted: User deleted
+      delete_failed: Delete failed
+  sessions:
+    new:
+      login: Log in
+      signup: Sign up now!
+      email: Email
+      password: Password
+      newuser: New user?
+      remember: Remember me on this computer
+      forgot: (forgot password)
+    create:
+      invalid: Invalid email/password combination
+      account_not_activated: Account not activated.
+      check_mail: Check your email for the activation link
+  user_mailer:
+    account_activation:
+      activation: Account activation
+    password_reset:
+      reset: Password reset
+  account_activations:
+    edit:
+      activated: Account activated!
+      invalid: Invalid activation link
+  password_resets:
+    new:
+      forgot: Forgot password
+      email: Email
+      submit: Submit
+    create:
+      send: Email sent with password reset instructions
+      email_not_found: Email address not found
+    user_not_found: User not found
+    empty_password: can't be empty
+    success_reset: Password has been reset.
+    expired: Password reset has expired.
+    user_invalid: User invalid
+  hi: Hi,
+  sample_app: Sample App
+  activate: Activate
+  mail_content: Welcome to the Sample App! Click on the link below to activate your account
+  vietnam: Vietnamese
+  english: English
+  base_title: Ruby on Rails Tutorial sample app
+  reset_mail_click: To reset your password click the link below
+  reset_mail_expire: This link will expire in two hours.
+  reset_mail_ignore: If you did not request your password to be reset, please ignore this email and your password will stay as it is.
+  reset_mail_reset: Password reset
+  password: Password
+  password_confirm: Password confirm
+  password_update: Update password
